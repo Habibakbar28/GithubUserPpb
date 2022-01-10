@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="users_name">(username)</string>
+    <string name="id">ID Pengguna</string>
+    <string name="location">lokasi</string>
+    <string name="text_repo">Repository</string>
+    <string name="company">company</string>
+    <string name="pengikut">Follower</string>
+    <string name="mengikuti">Following</string>
+    <string name="tab_1">Follower</string>
+    <string name="tab_2">Following</string>
+    <string name="search_botton">Search Botton</string>
+    <string name="search">Search</string>
+    <string name="no_location">No Location</string>
+    <string name="no_company">No Company</string>
+    <string name="no_name">No Name</string>
+    <string name="brackets">(%1$s)</string>
+    <string name="please_search_for_user">Please search for user</string>
+    <string name="user_not_found">User not found</string>
+    <string name="no_followers">No followers</string>
+    <string name="no_following">No following</string>
+    <string name="detail_user">Detail User</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="user_favorite">User Favorite</string>
+    <string name="add_favorite">added to favorite</string>
+    <string name="delete_favorite">deleted from favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="no_user_favorite">No user favorite</string>
+    <string name="nama">Nama User</string>
+</resources>
